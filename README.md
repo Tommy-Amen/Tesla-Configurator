@@ -20,7 +20,7 @@ Inspired by Tesla’s modern and user-friendly interface, I recreated the dynami
 ## Technologies
 
 - HTML
-- CSS
+- Tailwind
 - Javascript
 
 ## Author
